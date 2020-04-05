@@ -21,7 +21,7 @@ const Wrapper = styled.div`
 const Title = styled.h1`
   margin-bottom: 40px;
   background: #1b1b1d;
-  font-size: 20px;
+  font-size: 16px;
   padding: 6px 0;
 `;
 

@@ -100,6 +100,7 @@ const Name = styled.div`
 const Wrapper = styled.div`
   max-width: 1000px;
   margin: 0 auto;
+  padding-bottom: 30px;
 `;
 
 const Grid = styled.div`
